@@ -23,5 +23,5 @@ YouTube music does not have a feature to save your queue as a playlist. So, I cr
  `python main.py "https://music.youtube.com/watch?v=rrZcR4GzWq8&list=RDAMVMNWCG3MUDc0A"`
  
  ### Illustration of the usage of script - 
-![Illustration of the usage of this script](https://s6.gifyu.com/images/2021-06-12_20-04-04.gif)
+![Illustration of the usage of this script](https://s6.gifyu.com/images/2021-06-12_20-04-04-min.gif)
 
